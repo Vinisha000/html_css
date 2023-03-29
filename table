@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>
+online book store</title>
+<body bgcolor="yellow">
+<center>
+<h1font style="bold" font size="25">vinisha book store</h1>
+<h2>*************************************</h2>
+<hr color="blue" width=100% size=10>
+<h3 font size="12"> list of novels</h3>
+<table border: 1px solid black
+  border-collapse="collapse">
+<tr>
+<th><u>S.no</u></th>
+<th><u>Book Name</u></th>
+<th><u>Author Name</u>
+</th>
+<th><u>Price</u></th>
+</tr>
+
+<tr>
+<td>1001</td>
+<td>It ends with us</td>
+<td>Collen Hoover</td>
+<td>345/-</td>
+</tr>
+
+<tr>
+<td>1002</td>
+<td>In five years</td>
+<td>Rebecca Serla</td>
+<td>790/-</td>
+</tr>
+
+<tr>
+<td>1003</td>
+<td>da vinci code</td>
+<td>Dan Brown</td>
+<td>545/-</td>
+</tr>
+
+<tr>
+<td>1001</td>
+<td>murderer's mind</td>
+<td>dean A hacycock</td>
+<td>1200/-</td>
+</tr>
+</table>
+<br><br><br>
